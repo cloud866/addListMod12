@@ -16,7 +16,7 @@ public class Main {
             list.set(i, end);
         }
 
-        System.out.println(list);
+        System.out.println(list);   //2
     }
 
 }
